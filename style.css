@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    line-height: 1.2;
+}
+.container {
+    margin: 0 auto;
+    padding: 1px 15px;
+    width: 100%;
+    max-width: 1440px;
+    min-width: 375px;
+}
+.zaga{
+    width: 1200px;
+    margin: 86px 100px 0;
+}
+h3{
+    font-family: "Raleway";
+    width: 223px;
+    line-height: 20px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #43806C;
+    margin-bottom: 20px;
+}
+h2{
+    font-family:  "Roboto";
+    margin-bottom: 34px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #214E41;
+    width: 558px;
+}
+p{
+    font-family: "Raleway";
+    font-size: 18px;
+    font-weight: 400;
+    color:#757575;
+    width: 551px;
+}
+.cards{
+    margin: 60px 100px 63px;
+    display: flex;
+    justify-content: space-between;
+}
+h4{
+    font-family:  "Roboto";
+    font-size: 60px;
+    font-weight: 700;
+    color: #F0A446;
+    margin-bottom: 13px;
+}
+.card_txt{
+    font-family: "Raleway";
+    font-size: 13px;
+    font-weight: 700;
+    color:#214E41;
+    width: 239px;
+    
+}
+.epmlovers{ 
+    background: url(img/girl.png); 
+    background-size: cover;
+    height: 522px;
+}
+.aga{
+    margin: 126px 0 114px 100px;
+}
+.class2{
+    font-family:  "Roboto";
+    width: 396px;
+}
+.txt{
+    width: 491px;
+    font-family: "Raleway";
+    margin-bottom: 26px;
+}
+.btn{
+    font-family: "Raleway";
+    color: #214E41;
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+.card_txt2{
+    width: 262px;
+}
+.card_txt3{
+    width: 225px;
+}
+.card_txt4{
+    width: 231px;
+}
+
+
+
+
+
+
+
+
+
